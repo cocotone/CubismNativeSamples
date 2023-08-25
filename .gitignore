@@ -8,6 +8,7 @@
 
 # Sample build directories
 /Samples/**/build/
+/Samples/**/builds/
 # Sample third party files
 /Samples/**/thirdParty/*
 !/Samples/**/thirdParty/scripts/*
